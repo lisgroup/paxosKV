@@ -1,7 +1,21 @@
-# paxos KV
+<!--
+based on the a great readme template
+https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+-->
 
-### 1. 实现一个基于paxos的kv存储系统
+# Project Title
 
-### 2. 实现一个基于paxos的分布式锁
+One Paragraph of project description goes here
 
-### 3. 实现一个基于paxos的分布式队列
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
